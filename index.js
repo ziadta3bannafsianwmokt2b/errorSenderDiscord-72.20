@@ -52,3 +52,4 @@ client.on('messageCreate', async (message) => {
         await sendErrorToChannel(error);
     }
 });
+client.login('');
